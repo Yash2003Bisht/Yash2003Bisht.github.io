@@ -7,16 +7,16 @@
       <priority>1.0</priority>
    </url>
    <url>
-      <loc>https://yash2003bisht.github.io/#about</loc>
+      <loc>https://yash2003bisht.github.io/second.html</loc>
       <lastmod>2024-02-01</lastmod>
       <changefreq>monthly</changefreq>
-      <priority>0.8</priority>
+      <priority>1.0</priority>
    </url>
    <url>
-      <loc>https://yash2003bisht.github.io/#freelancing</loc>
+      <loc>https://yash2003bisht.github.io/three.html</loc>
       <lastmod>2024-02-01</lastmod>
       <changefreq>monthly</changefreq>
-      <priority>0.8</priority>
+      <priority>1.0</priority>
    </url>
    <!-- Add more URLs for other pages on your website -->
 </urlset>
